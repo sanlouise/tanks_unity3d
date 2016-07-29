@@ -14,7 +14,7 @@ cd tanks_unity3d
 
 ## Play the Game!
 
-
+<div style="box-shadow: 0 12px 15px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);"><a href="http://sandrahallie.com" alt="Sandra Hallie"><center><img src="readme_images/readme.png" alt="Tanks!" /></center></a></div>
 
 ## Credits
 
